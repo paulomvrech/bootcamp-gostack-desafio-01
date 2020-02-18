@@ -72,7 +72,7 @@ $ cd bootcamp-gostack-desafio-01
 # Instale as dependencias
 $ yarn
 
-# Inicie o servidor que irá rodar na porta 3333
+# Inicie o servidor que irá rodar na porta 3000
 $ yarn dev
 ```
 
